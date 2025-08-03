@@ -22,7 +22,7 @@ Nota: Crea una carpeta y LLamala PokedexManager aqui guardaras las 2 carpetas (f
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuUsuario/pokedex-frontend.git
+git clone https://github.com/Efp0233/Pokedex-Frontend.git
 cd pokedex-frontend
 ```
 2. descomprimelo
