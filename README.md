@@ -28,9 +28,10 @@ git clone https://github.com/Efp0233/Pokedex-Frontend.git
 ```
 2. descomprimelo
 3. guarda la carpeta frontend dentro de la carpeta PokedexManager donde tambien esta La carpeta backend
-4. una vez dentro de la carpeta PokedexManager ejecuta el comando 'cd frontend' el cual te redirigira a la carpeta frontend
-5. una vez dentro de la carpeta frontend ejecuta en terminal el comando 'npm i' para que se instalen las dependencias de nodeJS que ya estan en package.js
-6. ahora en el mismo directorio frontend ejecuta el comando "npm run dev" para utilizar el script para entorno de desarrollo el cual te dara la url del frontend para que la uses en la variable de entorno en backend
+4. crea el .env y copia la variable de entorno que esta en el .env.example para que coincida con el puerto de backend/index.js process.env.PORT || 4000; o localhost:4000
+5. una vez dentro de la carpeta PokedexManager ejecuta el comando 'cd frontend' el cual te redirigira a la carpeta frontend
+6. una vez dentro de la carpeta frontend ejecuta en terminal el comando 'npm i' para que se instalen las dependencias de nodeJS que ya estan en package.js
+7. ahora en el mismo directorio frontend ejecuta el comando "npm run dev" para utilizar el script para entorno de desarrollo el cual te dara la url del frontend para que la uses en la variable de entorno en backend
 
 
 # 🧰 Tecnologías Utilizadas
