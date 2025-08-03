@@ -4,7 +4,7 @@ Interfaz web interactiva para explorar Pokémon, filtrar por tipo, buscar por no
 
 ---
 
-## 🚀 Funcionalidades
+# 🚀 Funcionalidades
 
 - Exploración visual de Pokémon con **cards animadas**
 - **Filtro por tipo** y **búsqueda reactiva**
@@ -51,7 +51,7 @@ git clone https://github.com/Efp0233/Pokedex-Frontend.git
 ```
 ---
 
-## Estructura del proyecto
+# Estructura del proyecto
 
 ```bash
 📁 node_modules/         # Dependencias instaladas automáticamente por npm
@@ -76,7 +76,7 @@ git clone https://github.com/Efp0233/Pokedex-Frontend.git
 📄 README.md             # Documentación del frontend (este archivo)
 ```
 
-## Enpoits 
+# Enpoits 
 los endpoits en frontend son consumidos gracias a el cliente axios estos son algunos
 
 ```bash
