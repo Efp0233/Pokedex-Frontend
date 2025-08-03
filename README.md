@@ -17,6 +17,8 @@ Interfaz web interactiva para explorar Pokémon, filtrar por tipo, buscar por no
 
 ## 📦 Instalación
 Nota:tener instalado NodeJs en tu Pc https://nodejs.org/es
+
+
 Nota: Crea una carpeta y LLamala PokedexManager aqui guardaras las 2 carpetas (frontend y backend)
 
 1. Clona el repositorio o descargalo manualmente
