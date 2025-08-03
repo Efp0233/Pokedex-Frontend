@@ -19,11 +19,10 @@ Interfaz web interactiva para explorar Pokémon, filtrar por tipo, buscar por no
 Nota:tener instalado NodeJs en tu Pc https://nodejs.org/es
 Nota: Crea una carpeta y LLamala PokedexManager aqui guardaras las 2 carpetas (frontend y backend)
 
-1. Clona el repositorio:
+1. Clona el repositorio o descargalo manualmente
 
 ```bash
 git clone https://github.com/Efp0233/Pokedex-Frontend.git
-cd pokedex-frontend
 ```
 2. descomprimelo
 3. guarda la carpeta frontend dentro de la carpeta PokedexManager donde tambien esta La carpeta backend
