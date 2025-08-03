@@ -15,10 +15,11 @@ Interfaz web interactiva para explorar Pokémon, filtrar por tipo, buscar por no
 
 ---
 
-## 📦 Instalación
-# Nota:tener instalado NodeJs en tu Pc https://nodejs.org/es
+# 📦 Instalación
 
-# Nota: Crea una carpeta y LLamala PokedexManager aqui guardaras las 2 carpetas (frontend y backend)
+## Nota:tener instalado NodeJs en tu Pc https://nodejs.org/es
+
+## Nota: Crea una carpeta y LLamala PokedexManager aqui guardaras las 2 carpetas (frontend y backend)
 
 1. Clona el repositorio o descargalo manualmente
 
@@ -32,7 +33,7 @@ git clone https://github.com/Efp0233/Pokedex-Frontend.git
 6. ahora en el mismo directorio frontend ejecuta el comando "npm run dev" para utilizar el script para entorno de desarrollo el cual te dara la url del frontend para que la uses en la variable de entorno en backend
 
 
-## 🧰 Tecnologías Utilizadas
+# 🧰 Tecnologías Utilizadas
 
 ```bash
 | Tecnología       | Descripción                                                                 |
