@@ -22,13 +22,14 @@ Interfaz web interactiva para explorar Pokémon, filtrar por tipo, buscar por no
 ## Nota: Crea una carpeta y LLamala PokedexManager aqui guardaras las 2 carpetas (frontend y backend)
 
 1. Clona el repositorio o descargalo manualmente
-
+2.crea la Carpeta Pokedex_Manager
+3. ejecuta este comando dentro de la terminal
 ```bash
 git clone https://github.com/Efp0233/Pokedex-Frontend.git
 ```
-2. descomprimelo
-3. guarda la carpeta frontend dentro de la carpeta PokedexManager donde tambien esta La carpeta backend: https://github.com/Efp0233/Pokedex-backend
-4. crea el .env y copia la variable de entorno que esta en el .env.example para que coincida con el puerto de backend/index.js process.env.PORT || 4000; o localhost:4000
+4. si lo descargaste manualmente descomprimelo
+5. guarda la carpeta frontend dentro de la carpeta Pokedex_Manager en caso de haberlo descargado manualmente, donde tambien esta La carpeta backend: https://github.com/Efp0233/Pokedex-backend
+4. crea el .env y copia la variable de entorno que esta en el .env.example para que coincida con el puerto de backend/index.js process.env.PORT || 4000; o localhost:4000 o simplemenre renombra el .env example
 5. una vez dentro de la carpeta PokedexManager ejecuta el comando 'cd frontend' el cual te redirigira a la carpeta frontend
 6. una vez dentro de la carpeta frontend ejecuta en terminal el comando 'npm i' para que se instalen las dependencias de nodeJS que ya estan en package.js
 7. ahora en el mismo directorio frontend ejecuta el comando "npm run dev" para utilizar el script para entorno de desarrollo el cual te dara la url del frontend para que la uses en la variable de entorno en backend
