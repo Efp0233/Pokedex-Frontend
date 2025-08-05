@@ -6,20 +6,20 @@ Interfaz web interactiva para explorar Pokémon, filtrar por tipo, buscar por no
 
 # 🚀 Funcionalidades
 
-- Exploración visual de Pokémon con **cards animadas**
-- **Filtro por tipo** y **búsqueda reactiva**
-- **Gestión de favoritos** persistentes por sesión
-- **Paginación inteligente** con feedback visual
-- Modales informativos con **stats y tipos**
-- Diseño **responsivo** para escritorio y móvil
+- Exploración visual de Pokémon con **cards animadas**.
+- **Filtro por tipo** y **búsqueda reactiva**.
+- **Gestión de favoritos** persistentes por sesión.
+- **Paginación inteligente** con feedback visual.
+- Modales informativos con **stats y tipos**.
+- Diseño **responsivo** para escritorio y móvil.
 
 ---
 
 # 📦 Instalación
 
 ## Nota:tener instalado NodeJs en tu Pc https://nodejs.org/es
-
-## Nota: Crea una carpeta y LLamala PokedexManager aqui guardaras las 2 carpetas (frontend y backend)
+## Nota Cuando estes dentro de la pagina y no veas pokemones en "explora la pokedex" recarga la pagina , no se perdera tu sesion : ) .
+## Nota: Crea una carpeta y LLamala PokedexManager aqui guardaras las 2 carpetas (frontend y backend).
 
 1. Clona el repositorio o descargalo manualmente
 2.crea la Carpeta PokedexManager
@@ -33,7 +33,8 @@ git clone https://github.com/Efp0233/Pokedex-Frontend.git
 7. crea el .env y copia la variable de entorno que esta en el .env.example para que coincida con el puerto de backend/index.js process.env.PORT || 4000; o localhost:4000 o simplemente renombra el .env example
 8. una vez dentro de la carpeta PokedexManager ejecuta el comando 'cd pokedex-frontend' el cual te redirigira a la carpeta pokedex-frontend
 9. una vez dentro de la carpeta frontend ejecuta en terminal el comando 'npm i' para que se instalen las dependencias de nodeJS que ya estan en package.js
-10. ahora en el mismo directorio frontend ejecuta el comando "npm run dev" para utilizar el script para entorno de desarrollo el cual te dara la url del frontend para que la uses en la variable de entorno en backend
+10. ahora en el mismo directorio frontend ejecuta el comando "npm run dev" para utilizar el script para entorno de desarrollo el cual te dara la url del frontend para que la uses en la variable de entorno en backend.
+
 
 
 # 🧰 Tecnologías Utilizadas
